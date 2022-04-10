@@ -1,0 +1,94 @@
+body{margin: 0px;}
+.class1{
+	background-image:url("https://i0.wp.com/worldscuad.com/wp-content/uploads/2020/01/audience-band-celebration-1190298-6.jpg?ssl=1"); 
+	background-size: cover; 
+    background-repeat: no-repeat;
+	width: 1515px;
+	height: 1100px;
+	padding: 15px 5px 5px 15px;
+	
+}
+.div1{
+	background-color: #ba000d;
+	opacity: 0.8;
+	width: 1000px;
+	height: 1000px;
+	margin: auto;
+	border-radius: 35px;
+	margin-top: 44px;
+	font-family: Arial;
+}
+#id1{
+	text-align: center;
+	padding-top: 30px;
+	font-size: 33px;
+	color: black;
+}
+.class2{
+	font-size: 21px; font font-weight: 200px; color: black;
+	padding-left: 100px;
+}
+#id2{font-size: 29px; color: black; }
+
+#mytext{
+	width: 800px;
+    margin-left: 100px;
+    margin-right: 100px;     
+  	height: 40px;
+  	border-radius: 11px;
+  	padding-left: 6px;
+}
+#mail{width: 800px;
+    margin-left: 100px;
+    margin-right: 100px;     
+  	height: 40px;
+  	border-radius: 11px;
+  	padding-left: 6px;
+
+}
+#contact{width: 800px;
+    margin-left: 100px;
+    margin-right: 100px;     
+  	height: 40px;
+  	border-radius: 11px;
+  	padding-left: 6px;}
+#role{width: 810px;
+    margin-left: 100px;
+    margin-right: 100px;     
+  	height: 44px;
+  	border-radius: 11px;
+  	padding-left: 6px;}
+
+.sk{
+	color: white;
+
+	font-size: 20px;
+	margin: 3px 3px 3px 3px
+}
+#id7{padding-left: 80px;
+      cursor: default;
+}
+input[type="checkbox"],input[type="radio"]{
+	margin-left: 100px;
+}
+
+.class8{
+     margin-left: 100px;
+     border-radius: 19px;
+
+}
+.class06{width: 800px;
+    margin-left: 100px;
+    margin-right: 100px;     
+  	height: 54px;
+  	border-radius: 11px;
+  	padding-left: 6px;
+  	background-color: skyblue;
+}
+input{width: 80%;border:0;border-bottom: 7px solid #eee;margin:10px; padding: 10px; width: 800px;
+    margin-left: 100px;
+    margin-right: 100px;     
+  	height: 25px;
+  	border-radius: 11px;
+  	padding-left: 6px;}
+#submit{border-radius: 10px;}
